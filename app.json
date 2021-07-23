@@ -28,10 +28,6 @@
       "description": "How many seconds an user get muted if he is spamming. Default is 30 Minutes (1800 Secs)",
       "value": "1800"
     },
-    "YT_DATA_API_KEY": {
-      "description": "Youtube DATA API key, grab it from cloud.google.com",
-      "value": ""
-    },
     "DEFAULT_TR_LANG": {
       "description": "Default Translation Language",
       "value": "en"
