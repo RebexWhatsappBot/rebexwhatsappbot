@@ -8,7 +8,8 @@
 ![WhatsBot](https://socialify.git.ci/RebexWhatsappBot/rebexwhatsappbot/image?description=1&descriptionEditable=RedexWhatsApp%20bot%20from%20TheWhatsApp%20bot&font=Raleway&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark) <br>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Redex-WhatsBot-orange" alt="RedexWhatsBot"><br>
+  <a href="https://github.com/RebexWhatsappBot/rebexwhatsappbot">
+  <img src="https://img.shields.io/badge/Redex-WhatsBot-orange" alt="RedexWhatsBot"><br></a>
    <a href="https://github.com/TheWhatsBot/WhatsBot/wiki">
  <img src="https://shields.io/badge/WIKI-red?style=for-the-badge" alt="Wiki"></a>
   <a href="https://github.com/TheWhatsBot/WhatsBot/wiki/Demo">
